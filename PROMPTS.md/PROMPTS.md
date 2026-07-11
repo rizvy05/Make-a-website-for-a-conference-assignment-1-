@@ -1,0 +1,1 @@
+Make a event schedule section for the missing one.. in this section..there will be 3 days option and there will time time for .. different section..with different topic related to the other section...like ai/ml,Cloud and then add speaker and time for each section..like 3 days plan..background will be white...you will use blue and black in font color
