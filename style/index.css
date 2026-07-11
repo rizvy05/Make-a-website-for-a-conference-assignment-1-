@@ -54,6 +54,7 @@ position:relative;
 cursor: pointer;
 box-sizing: border-box;
 font-size: 16px;
+text-align:center;
 }  
 .nav-button:hover{
     color:rgb(0, 0, 0);
